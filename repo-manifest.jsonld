@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/certifi/cert-tools/commit/94ff3b87f5d2bce9fe66c1d01b91947bdb37f663",
       "git:hexsha": "94ff3b87f5d2bce9fe66c1d01b91947bdb37f663",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T20:30:00.892970+00:00"
     }
   ]
 }
