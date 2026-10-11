@@ -1,0 +1,11 @@
+{
+  "org": "certifi",
+  "repo": "cert-tools",
+  "versions": [
+    {
+      "commit": "94ff3b87f5d2bce9fe66c1d01b91947bdb37f663",
+      "tag": "",
+      "parsed_at": "2026-10-11T20:30:00.893411+00:00"
+    }
+  ]
+}
