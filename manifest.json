@@ -1,0 +1,22 @@
+{
+  "manifest_version": "1.0",
+  "org": "certifi",
+  "repo": "cert-tools",
+  "versions": [
+    {
+      "commit": "94ff3b87f5d2bce9fe66c1d01b91947bdb37f663",
+      "parsed_at": "2026-10-11T20:27:56.498749+00:00",
+      "filetree": "filetree/94ff3b87f5d2bce9fe66c1d01b91947bdb37f663.nq.gz",
+      "blobs": [
+        "blob/0f0e3a9a06efa2e60558878811ff5b2f06df9425.nq.gz",
+        "blob/9ad007a4d5c43bbdae71a2cc7ad9006a3912e65d.nq.gz",
+        "blob/bfa6c01ea805561f6fc452926b70748d083bc5da.nq.gz",
+        "blob/8d37d887459c0cdbacf2e029a79571b9f3454b7e.nq.gz",
+        "blob/2f48d5b640912407a4e7c1ee2f10cfcf756f19c0.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
